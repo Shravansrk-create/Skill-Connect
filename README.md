@@ -11,7 +11,17 @@ Skill-Connect aims to redefine freelancing by offering a beginner-friendly platf
 - **Real-Time Messaging:** Direct communication between clients and students.  
 - **Project Posting and Bidding:** Clients post projects, and students can view details, chat, and apply.  
 - **Personalized Dashboard:** Customized experience for clients and students.  
-- **Secure and User-Friendly:** Safe login system and intuitive navigation for beginners.  
+- **Secure and User-Friendly:** Safe login system and intuitive navigation for beginners.
+
+
+## 🔧 Installation  
+To get started with Skill-Connect, follow these steps:  
+
+1. **Clone the repository:**  
+```bash
+git clone https://github.com/Shravansrk-create/skill-connect.git
+
+
 
 ## 🛠️ Technologies Used  
 - **Frontend:** HTML, CSS, JavaScript  
