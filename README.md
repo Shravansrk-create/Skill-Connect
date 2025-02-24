@@ -17,11 +17,6 @@ Skill-Connect aims to redefine freelancing by offering a beginner-friendly platf
 ## 🔧 Installation  
 To get started with Skill-Connect, follow these steps:  
 
-1. **Clone the repository:**  
-```bash
-git clone https://github.com/Shravansrk-create/skill-connect.git
-
-
 
 ## 🛠️ Technologies Used  
 - **Frontend:** HTML, CSS, JavaScript  
